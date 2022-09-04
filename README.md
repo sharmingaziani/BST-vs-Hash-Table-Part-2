@@ -1,11 +1,9 @@
-# BST-vs-Hash-Table-Part-2
+# Hash-Table
 
-Hey guys! Welcome to the second part of my java project for my Computer Science II class.
+Welcome to my Hash Table project! 
 
-I took two routes to solve a problem to see which one was the most optimal in the end using...
-
-Binary Search Tree
-Hash Table
 I read in a data file containing author names, book titles, keywords, and themes trying to find the most efficient way to organize all the data as well as search for it later on.
 
-This repository is gonna explore using Hash Tables!
+The same one I used when I created my Binary Search Tree project (repository for BST: https://github.com/sharmingaziani/Binary-Search-Tree )
+
+This allowed me to test which data structure was the most optimal for organizing and searching the user data with the given datafile.txt  
