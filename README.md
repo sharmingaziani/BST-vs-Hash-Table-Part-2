@@ -2,7 +2,7 @@
 
 Welcome to my Hash Table project! 
 
-This fun project reads in a data file containing author names, book titles, keywords, and themes trying to find the most efficient way to organize all the data as well as search for it later on.
+This fun program reads in a data file containing author names, book titles, keywords, and themes trying to find the most efficient way to organize all the data as well as search for it later on.
 
 The same one I used when I created my Binary Search Tree project (repository for BST: https://github.com/sharmingaziani/Binary-Search-Tree)
 
